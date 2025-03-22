@@ -111,7 +111,8 @@ Feel free to fork this repository, make improvements, or contribute by submittin
 
 
 ## Acknowledgments
-The dataset used for this project is sourced from a publicly available sales dataset (can be added based on actual source).
+The dataset used for this project is sourced from a publicly available sales dataset.
+#### https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction
 
 This project uses Scikit-learn, XGBoost, and other Python libraries for data preprocessing, model building, and evaluation.
 
