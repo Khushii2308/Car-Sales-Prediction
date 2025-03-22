@@ -23,11 +23,11 @@ To start using the Sales Prediction project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/Sales-Prediction.git
+git clone https://github.com/Khushii2308/Car-Sales-Prediction.git
 
 2. Navigate into the project directory:
 
-cd Sales-Prediction
+cd Car-Sales-Prediction
 
 3. Install the required dependencies:
 
